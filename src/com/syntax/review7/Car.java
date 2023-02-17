@@ -2,7 +2,7 @@ package com.syntax.review7;
 
 public class Car {
 
-    String make,model;  // variables ==>
+    protected String make,model;  // variables ==>
 
     int year,horsePower;
 
